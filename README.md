@@ -1,1 +1,1 @@
-# child_development_portfolio
+These files are from two classes: ED PSY 640 Human Development: Theory and Research (Survey of theory and research in human development from conception to death, emphasizing the child and adolescent periods of growth) and ED PSY 330 Introduction to Learning and Development (Principles and concepts of learning and development that contribute to the understanding and direction of school learning). 
